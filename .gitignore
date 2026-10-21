@@ -1,0 +1,5 @@
+__pycache__/
+.venv/
+*.pyc
+budget_planner.db
+.streamlit/secrets.toml
